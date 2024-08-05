@@ -4,7 +4,7 @@
 
  **使用Dome：**
 
-1. 解包：将当前目录的 `<version>.zip` 解压到 `/Users/name/Documents/dist` 目录（或其他目录）。
+1. 解包：将当前目录的 `FPS_GODOT.7z` 解压到 `/Users/name/Documents/dist` 目录（或其他目录）。
 
 2. 打开Godot点击import 找到project.godot选中并打开。
 
